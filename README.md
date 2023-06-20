@@ -15,7 +15,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanTheDeveloper&show_icons=true)
+
 
 
 ## I work with:
