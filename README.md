@@ -1,11 +1,11 @@
 ### Hey! Soy Walter Hartwell White. I live at 308 Negro Aroya Lane Albaqurque New Mexico. All jokes aside:
 # My programming life
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord-App" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanTheDeveloper&show_icons=true)
