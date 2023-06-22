@@ -30,7 +30,7 @@
 ## OS:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # My projects:
-CSCord made with C#, CSCord App with VB.NET and C# and more to come. I am also making a website for CSCord with HTML and CSS. I work on games aswell - I love to make games using C++ and C#. Also one of my favourites Typescript. I love to make discord bots using some Javascript. I use Java to make Minecraft mods. PHP im still a beginner at and Lua im also begining - I would count them as "still learning" but I think 50% does count as almost knowing. Python im still learning and will be a beginner very soon. I missed MYSQL, I use it for my C# projects.
+CSCord made with C#, CSCord App with VB.NET and C# and more to come. I am also making a website for CSCord with HTML and CSS. I work on games aswell - I love to make games using C++ and C#. Also one of my favourites Typescript. I love to make discord bots using some Javascript. I use Java to make Minecraft mods. PHP im still a beginner at and Lua im also begining - I would count them as "still learning" but I think 50% does count as almost knowing. Python im still learning and will be a beginner very soon.
 # Socials:
 You can find me on:
 
