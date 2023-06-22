@@ -5,13 +5,13 @@
 
 
 
-<a href="https://github.com/AyanTheDeveloper/CSCord-App">
+<a href="https://github.com/AyanTheDeveloper/CSCord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord" />
 </a>
 
 
 
-<a href="https://github.com/AyanTheDeveloper/CSCord">
+<a href="https://github.com/AyanTheDeveloper/CSCord-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanTheDeveloper&repo=CSCord-App" />
 </a>
 
